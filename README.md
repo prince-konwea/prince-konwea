@@ -1,8 +1,7 @@
-[![MasterHead](https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=82a1493bpq16d4miikw6zgpvrwjtaytu9e5rsn56jxl6p28j&rid=200w.gif&ct=g) 
 
-<h1 align="center">Hi 👋, I'm Mern Stack Developer From West Africa</h1>
+<h1 align="center">Hey there👋, I'm Prince Nkem Konwea a Mern Stack Developer From West Africa</h1>
 <h3 align="center">I'm laser-focused and passionate about software development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center"><img align="center" alt="Coding" width="600" height="400" style="display: block; margin: 0 auto" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-konwea&label=Profile%20views&color=0e75b6&style=flat" alt="prince-konwea" /> </p>
 
