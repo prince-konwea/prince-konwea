@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **context-api, Redux and PWAs**
 
-- 👨‍💻 All of my projects are available at [princekonwea.vercel.app](princekonwea.vercel.app)
+- 👨‍💻 All of my projects are available at [konweaprince.netlify.app](konweaprince.netlify.app)
 
 - 💬 Ask me about **Mongodb, React, Nextjs and Node**
 
