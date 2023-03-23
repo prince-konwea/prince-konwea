@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there👋, I'm Prince Nkem Konwea a Mern Stack Developer</h1>
+<h1 align="center">Hey there👋, I'm Prince Nkem Konwea I'm a fullstack developer</h1>
 <h3 align="center">I'm laser-focused and passionate about software development</h3>
 <p align="center"><img align="center" alt="Coding" width="600" height="400" style="display: block; margin: 0 auto" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" /></p>
 
