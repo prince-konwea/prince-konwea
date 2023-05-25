@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **context-api, Redux and PWAs**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://princekonwea.netlify.app)
 
-- 💬 Ask me about **Mongodb, React, Nextjs and Node**
+- 💬 Ask me about **React, Nextjs Node**
 
 - 📫 How to reach me **konweaprince09@gmail.com**
 
